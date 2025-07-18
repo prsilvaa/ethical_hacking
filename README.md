@@ -24,7 +24,7 @@
 
 <div align="center">
     <h3>Open Ports Scan</h3>
-    <img src="nmap.png" alt="Nmap scan" height="80%" width="80%">
+    <img src="kali_nmap.png" alt="Nmap scan" height="80%" width="80%">
     <p>Scan results showing open ports on the target machine, indicating potential entry points.</p>
 </div>
 
@@ -42,24 +42,8 @@
 
 <div align="center">
     <h3>Device Access with Password</h3>
-    <img src="device.png" alt="Access to device after password authentication" height="80%" width="80%">
+    <img src="devices.png" alt="Access to device after password authentication" height="80%" width="80%">
     <p>Access granted to the device after successful password authentication, demonstrating control over the target system.</p>
 </div>
 
 
-<h2>Lab Progress</h2>
-
-<h3>Lab 1: Kali Networking</h3>
-<p>Learned how to create networks and configure network adapters. I enjoyed setting up networking but found adding vmnet2 necessary for connectivity as a challenge.</p>
-
-<h3>Lab 2: Nmap & EC-Target</h3>
-<p>Learned how to exploit a machine using Nmap for scanning. Enjoyed identifying open ports. Challenge: Making the target machine work properly.</p>
-
-<h3>Lab 3: Metasploitable</h3>
-<p>Learned to exploit vulnerabilities using Legion tool. Enjoyed seeing Legion in action. Challenge: Following unclear lab instructions.</p>
-
-<h3>Lab 4: Windows XP Reverse Shell</h3>
-<p>Learned how to view files inside a target machine using commands like 'dir' and 'type'. Enjoyed gaining access to target machine data. Challenge: Incorrect lab notes.</p>
-
-<h3>Lab 5: Hashcat & Armitage</h3>
-<p>Learned password cracking using RockYou dictionary and managing sessions via Armitage. Enjoyed cracking passwords. Challenge: Finding correct passwords.</p>
